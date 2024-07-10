@@ -1,0 +1,40 @@
+.file-uploader {
+    font-family: Arial, sans-serif;
+}
+
+.file-content {
+    text-align: left;
+    white-space: pre-wrap; 
+    margin: 10px;
+    font-size: 14px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 10px;
+    border: #e1dfdf solid;
+}
+
+input[type='file'] {
+    margin: 20px 0;
+    display: block;
+    margin-left: 45%;
+    margin-right: auto;
+    margin-top: 6%;
+}
+
+
+table {
+    width: 90%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    margin-left: 5%;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
